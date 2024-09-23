@@ -1,7 +1,3 @@
----
-title: "Assignment 2 - My Hao, Lam - 21435050"
-output: html_notebook
----
 
 ```{r}
 install.packages("stringr")
