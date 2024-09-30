@@ -3,7 +3,7 @@ In my diverse portfolio of projects, I have applied a range of technologies and 
 
 In terms of data visualization, I used both Tableau and SAS Viya to transform complex datasets into actionable insights. Additionally, I applied descriptive analytics techniques using Excel to address real estate buyer advocacy challenges.
 
-My predictive modeling expertise includes the use of R and SAS Enterprise Miner to build and evaluate models for online car sales, along with customer segmentation and association rule mining. I also explored Python to build decision tree models for wine classification and image classification tasks. My AI-driven initiatives include building a chatbot using Dialogflow CX and classifying comments using Large Language Models (LLMs) in Python.
+My predictive modeling expertise includes the use of R, Python and SAS Enterprise Miner to build and evaluate models for online car sales, along with customer segmentation, income and association rule mining. I also explored Python to build decision tree models for wine classification and image classification tasks. My AI-driven initiatives include building a chatbot using Dialogflow CX and classifying comments using Large Language Models (LLMs) in Python.
 
 Finally, I conducted Azure cost analysis and budgeting, further demonstrating my ability to manage cloud-based resources effectively.
 
@@ -26,5 +26,6 @@ Finally, I conducted Azure cost analysis and budgeting, further demonstrating my
 - Adopting Python to build a decision tree model to predict wine classes. 
 - Build a Chatbot in Dialog flow CX.
 - Using Large Language Models to classify the comments in Python.
-- Adopting Python to classify image.
+- Adopting Python to classify images.
 - Azure cost analysis and budget.
+- Pre-modeling processes, Classification models, and Clustering models for income datasets by Python
